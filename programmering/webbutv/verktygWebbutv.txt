@@ -1,0 +1,3 @@
+NodeJs javascript intepreter https://nodejs.org/en/download/
+VsCode med nodemon plugin npm install nodemon
+ 

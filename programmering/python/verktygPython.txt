@@ -1,0 +1,3 @@
+Python intepreter - https://www.python.org/downloads/windows/
+VsCode IDE   https://code.visualstudio.com/
+Python plugin för VsCode https://marketplace.visualstudio.com/items?itemName=donjayamanne.python-extension-pack
