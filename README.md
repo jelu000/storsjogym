@@ -30,3 +30,7 @@ https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
 Och ThunderClient för rest api test
 https://www.thunderclient.com/
 https://dev.to/dzun_n/no-need-postman-your-vscode-is-enough-for-testing-your-api-2khg
+
+
+och här finns några programmeringsuppgifter 
+https://github.com/jelu000/storsjogym/blob/master/programmering/Programmeringsuppgifter.pdf
