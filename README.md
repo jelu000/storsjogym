@@ -13,5 +13,7 @@ https://www.youtube.com/watch?v=mJ-qvsxPHpY
 Python länkar att installera
 
 Python intepreter - https://www.python.org/downloads/windows/
+https://docs.python.org/3/library/
+https://www.w3schools.com/python/default.asp
 VsCode IDE   https://code.visualstudio.com/
 Python plugin för VsCode https://marketplace.visualstudio.com/items?itemName=donjayamanne.python-extension-pack
