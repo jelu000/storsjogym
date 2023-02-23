@@ -1,3 +1,10 @@
+VsCode https://code.visualstudio.com/
+och liveserver plugin
+
+TypeScriptEssentials.  Kappitel 3 & 4 om JavaScript
+https://books-library.website/files/books-library.net-10151705Xv7Z7.pdf
+
+Hoppade detta på grund av adminrättigher vid installation
 NodeJs javascript intepreter https://nodejs.org/en/download/
 VsCode med nodemon plugin npm install nodemon
  

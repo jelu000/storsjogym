@@ -1,0 +1,2 @@
+VsCode - https://code.visualstudio.com/
+Liveserver plugin för VsCode
