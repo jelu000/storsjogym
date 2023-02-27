@@ -32,5 +32,7 @@ https://www.thunderclient.com/
 https://dev.to/dzun_n/no-need-postman-your-vscode-is-enough-for-testing-your-api-2khg
 
 
+Kapitel 2-3 i denna bok är bra om man vill lära sig språket Javascript https://books-library.website/files/books-library.net-10151705Xv7Z7.pdf
+
 och här finns några programmeringsuppgifter 
 https://github.com/jelu000/storsjogym/blob/master/programmering/Programmeringsuppgifter.pdf
