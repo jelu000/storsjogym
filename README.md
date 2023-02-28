@@ -33,6 +33,7 @@ https://dev.to/dzun_n/no-need-postman-your-vscode-is-enough-for-testing-your-api
 
 
 Kapitel 2-3 i denna bok är bra om man vill lära sig språket Javascript https://books-library.website/files/books-library.net-10151705Xv7Z7.pdf
+En bra länk om javascript: https://dbwebb.se/kurser/javascript/kmom02/programmera-javascript
 
 och här finns några programmeringsuppgifter 
 https://github.com/jelu000/storsjogym/blob/master/programmering/Programmeringsuppgifter.pdf
