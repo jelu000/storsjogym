@@ -1,0 +1,10 @@
+Denna uppgift går ut på att hämta giltiga personNr från Skatteverkets rest api.
+Vi ska använda Thunder Client plugin till Vs Code för att testa anropen vilket är som Postman.
+https://www.thunderclient.com/
+
+Sen gör vi en enkel Webbsida som testar anropen.
+
+finns många olika gratis rest apier som ex:
+
+https://rapidapi.com/hub
+https://dev.to/ruppysuppy/7-free-public-apis-you-will-love-as-a-developer-166p

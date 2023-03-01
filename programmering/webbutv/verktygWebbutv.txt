@@ -1,5 +1,7 @@
 VsCode https://code.visualstudio.com/
-och liveserver plugin
+plugigins:
+och liveserver plugin 
+Thunder Client plugin - test av http requests
 
 TypeScriptEssentials.  Kappitel 3 & 4 om JavaScript
 https://books-library.website/files/books-library.net-10151705Xv7Z7.pdf

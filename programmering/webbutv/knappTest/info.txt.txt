@@ -1,0 +1,3 @@
+Detta visar hur man kan anropa knapp element från javascript koden på 2 olika sätt.
+Ett av sätten kräver att man man lägger <script> taggen längst ner i html dokumentet
+för att de ska fungera. Detta eftersom javascript intepretatorn läser in alla element i html dokumentet först.
