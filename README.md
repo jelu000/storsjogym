@@ -30,6 +30,9 @@ https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
 Och ThunderClient för rest api test
 https://www.thunderclient.com/
 
+UMLet ett bra gratis opensource program för att skapa UML diagram, finns både som VsCode plugin och app. Vet inte dock om de klarar reverse engenering:
+https://www.umlet.com/ 
+
 https://dev.to/dzun_n/no-need-postman-your-vscode-is-enough-for-testing-your-api-2khg
 
 Adresser för Skatteverkets Rest Api
