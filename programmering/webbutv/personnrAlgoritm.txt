@@ -1,0 +1,51 @@
+Kontroll av personnummer - 21Algoritm
+
+Ett kontrolltal räknas ut genom att man multiplicerar varje siffra i personnumret med
+omväxlande 2 och 1 (börja med 2).
+
+Siffersummorna för respektive produkt beräknas och dessa summeras sedan.
+
+Kontrolltalet ska då vara jämnt delbart med 10 för att personnumret ska vara korrekt.
+
+Nedan följer ett exempel på beräkning av ett kontrolltal:
+Personnummer: 720310-1212
+
+Kontrolltal:
+7 * 2 = 14 -> 1 + 4
+2 * 1 = 2 -> 2
+0 * 2 = 0 -> 0
+3 * 1 = 3 -> 3
+1 * 2 = 2 -> 2
+0 * 1 = 0 -> 0
+1 * 2 = 2 -> 2
+2 * 1 = 2 -> 2
+1 * 2 = 2 -> 2
+2 * 1 = 2 -> 2
+1 + 4 + 2 + 0 + 3 + 2 + 0 + 2 + 2 + 2 + 2 = 20
+20 / 10 = 2 Godkänt!
+
+Kontroll av personnummer - Kontrollsiffran
+
+Sista siffran i personnumret är en kontrollsiffra. Den räknas ut maskinellt med ledning av
+födelsetiden och födelsenumret.
+Här följer ett exempel på hur man kan räkna fram kontrollsiffran (enligt den s.k.
+modulus-10-metoden med vikterna 1 och 2):
+
+1. Siffrorna i födelsetiden och födelsenumret (dvs de 9 första siffrorna) multipliceras
+växelvis med 2 och 1.
+6 4 0 8 2 3 – 3 2 3
+2 1 2 1 2 1 2 1 2
+12,4,0,8,4,3, 6,2,6
+
+2. Lägg ihop siffrorna i produkterna. Obs! 12 räknas som 1+2
+1+2+4+0+8+4+3+6+2+6=36
+
+3. Entalssiffran (6) i siffersumman dras från talet 10. 10-6=4.
+
+Restsiffran (4) blir kontrollsiffra vilket gör att personnumret i exemplet
+blir 640823-3234.
+
+Kön
+
+Födelsenumret består av tre siffror, där sista siffran är udda för män och jämn för
+kvinnor. T ex 500305-8970. Där är 3:e siffran i födelsenumret en sjua(7), dvs en man.

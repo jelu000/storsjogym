@@ -1,0 +1,93 @@
+Förklaring till Bubble Sort.
+
+Bubble sort jämför två intilliggande element i en array och byter plats på dem om de inte är i rätt ordning.
+
+Arrayen gås igenom till det att något byte av plats inte skett. Då är arrayen sorterad och sorteringen avslutas.
+
+Ta t ex 6 tärningar och lägg dem slumpvis i en rad och följ instruktionen.
+
+
+Säg att vi har lagt tärningarna enligt nedan:
+
+1 2 3 4 5 6, den är ju sotrterad, eller hur.
+
+Jämför första tärningen med den andra. 2 är större än 1, alltså ska de ej byta plats.
+Jämför andra tärningen med den tredje. 3 är större än 2, alltså ska de ej byta plats.
+Jämför tredje tärningen med den fjärde. 4 är större än 3, alltså ska de ej byta plats.
+Jämför fjärde tärningen med den femte. 5 är större än 4, alltså ska de ej byta plats.
+Jämför femte tärningen med den sjätte, 6 är större än 5, alltså ska de ej byta plats.
+
+Nu har vi gått igenom alla tärningarna och ingen har bytt plats, alltså är den sorterad och klar.
+
+Nytt läge. Anta att vi har lagt tärningarna enligt nedan:
+
+6 4 5 1 3 5
+
+Jämför första tärningen med den andra. 6 är större än 4, alltså ska de byta plats.
+Vi får då:
+
+4 6 5 1 3 5. Samtidigt håller vi reda på i en variabel att ett byte har skett, dvs nu vet vi att arrayen inte var sorterad.
+
+Jämför andra tärningen med den tredje. 6 är större än 5, alltså ska de byta plats.
+Vi får då:
+
+4 5 6 1 3 5. 
+Vi sätter även här variabeln att byte har skett, vilket ju var onödigt eftersom vi redan satt den i första faller, men vi gör så varje gång för att det är ju inte säkert att ett byte skett innan.
+
+Jämför tredje tärningen med den fjärde. 6 är större än 1, alltså ska de byta plats.
+Vi får då:
+
+4 5 1 6 3 5
+
+Jämför fjärde tärningen med den femte. 6 är större än 3, alltså ska de byta plats.
+
+4 5 1 3 6 5
+
+Jämför femte tärningen med den sjätte, 6 är större än 5, alltså ska de byta plats.
+
+4 5 1 3 5 6
+
+Nu har vi gått igenom arrayen ett varv. 
+Vi kollar då om något byte skett. Ja det har det.
+Då börjar vi om från början.
+
+Vi har alltså nu:
+
+4 5 1 3 5 6
+
+Jämför första tärningen med den andra. 4 är inte större än 5, alltså ska de ej byta plats.
+Vi har då fortfarande:
+
+4 5 1 3 5 6. 
+
+Jämför andra tärningen med den tredje. 5 är större än 1, alltså ska de byta plats. 
+Vi får då:
+
+4 1 5 3 5 6. 
+Vi sätter här variabeln att byte har skett.
+
+Jämför tredje tärningen med den fjärde. 5 är större än 3, alltså ska de byta plats.
+Vi får då:
+
+4 1 3 5 5 6
+
+Jämför fjärde tärningen med den femte. 5 är inte större än 5, alltså ska de ej byta plats.
+Vi har då fortfarande:
+
+4 1 3 5 5 6
+
+Jämför femte tärningen med den sjätte. 5 är inte större än 6, alltså ska de ej byta plats.
+Vi har då fortfarande:
+
+4 1 3 5 5 6
+
+Nu har vi gått igenom arrayen ett till varv. 
+Vi kollar då om något byte skett. Ja det har det.
+Då börjar vi om från början.
+
+Så här håller vi på till man gått igenom arrayen ett helt varv utan att något byte skett. 
+Då är arrayen sorterad klart.
+
+
+
+
