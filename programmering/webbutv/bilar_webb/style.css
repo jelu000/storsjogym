@@ -1,0 +1,18 @@
+body {
+    background-color: aqua;
+    padding: 10%;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.bil_div_element{
+    background-color: lightcyan;
+    margin:1.2rem;
+    width: 50%;
+    border-radius: 1.2rem;
+    padding: 0.6rem;
+}
+
+h3 {
+    margin: 0.2rem;
+}
