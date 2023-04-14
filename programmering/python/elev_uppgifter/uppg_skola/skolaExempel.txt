@@ -1,0 +1,39 @@
+PS C:\Users\jens.lundeqvist\programmering\programmering\python\skola> python main.py
+
+
+
+---------------------------
+-MENY-
+
+1. Lista elever
+2. Läggtill elev
+3. Tabort elev
+4. Avsluta
+
+ Mata in ditt nr val: 1    
+
+---------------------------
+-Listar Elever- 4st
+
+Adam | Program: Teknik | Tel: 11223 | Id: b274ba97-9978-4109-a5fa-5ae39108a5ca
+Albin | Program: Estet | Tel: 666 | Id: f4683bbc-7128-438c-899c-d3d64286ef54  
+Jens | Program: Prog | Tel: 11 | Id: 7e069de0-682c-45c8-a6dd-b59f0db87dd6     
+Klara | Program: Estet | Tel: 1234 | Id: 06f9d3de-9688-4ab1-a2f5-0ba21dbe458b 
+
+
+
+---------------------------
+-MENY-
+
+1. Lista elever
+2. Läggtill elev
+3. Tabort elev
+4. Avsluta
+
+ Mata in ditt nr val: 2
+
+Mata in namn: Kalle
+
+Mata in utbildning: Teknik
+
+Mata in unikt Telefonummer: 678
